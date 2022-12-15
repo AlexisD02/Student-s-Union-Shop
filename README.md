@@ -1,7 +1,6 @@
-# My_First_Repo
-This is the work for assignment 1 for CO1418 Web Technologies
-
 # Student’s Union Shop
+
+This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By _**Alexis Demetriou**_
 
