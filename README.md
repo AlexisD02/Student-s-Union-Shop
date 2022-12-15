@@ -1,9 +1,9 @@
 # My_First_Repo
 This is the work for assignment 1 for CO1418 Web Technologies
 
-# _{Application Name}_
+# Student’s Union Shop
 
-#### By _**{List of contributors}**_
+#### By **Alexis Demetriou**
 
 #### _{Brief description of application}_
 
