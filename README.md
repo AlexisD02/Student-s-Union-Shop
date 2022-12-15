@@ -4,7 +4,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By _**Alexis Demetriou**_
 
-#### _Online store (E-Shop) - a site that sells goods via the Internet. This website allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information. Customers can shop online using a variety of computers and devices, including desktops, laptops, tablets, and smartphones._
+#### _Online store (E-Shop) - a site that sells goods via the website. This website allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information. Customers can shop online using a variety of computers and devices, including desktops, laptops, tablets, and smartphones._
 
 ## Technologies Used
 
