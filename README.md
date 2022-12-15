@@ -1,10 +1,6 @@
 # My_First_Repo
 This is the work for assignment 1 for CO1418 Web Technologies
 
-# [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template/shop-homepage/)
-
-[Shop Homepage](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
 ## Preview
 
 [![Shop Homepage Preview](https://assets.startbootstrap.com/img/screenshots/templates/shop-homepage.png)](https://startbootstrap.github.io/startbootstrap-shop-homepage/)
