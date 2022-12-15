@@ -16,7 +16,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have._
 
 ## Setup/Installation Requirements
 
