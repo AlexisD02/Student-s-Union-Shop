@@ -8,10 +8,9 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML (HyperText Markup Language)_
+* _CSS (Cascading Style Sheets)_
+* _JavaScript_
 
 ## Description
 
