@@ -14,7 +14,13 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Description
 
-_This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have._
+*_Design and evaluate appropriate user interfaces for front-end web applications - Wireframing with annotations overlaid_
+
+*_Develop a front-end web application using modern development  environments - Web application implementation (detailed breakdown below)_
+
+*_Justify a choice of interaction methods and identify appropriate contexts of use for web applications - Questions in demo regarding responsive web design_
+
+*_Demonstrate an awareness of current industry standards including those related to security, accessibility, and the design and development of web applications - Questions in demo regarding HTML5 API (localStorage and sessionStorage), web front-end frameworks etc..._
 
 ## Setup/Installation Requirements
 
