@@ -3,7 +3,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 # Student’s Union Shop
 
-#### By **Alexis Demetriou**
+#### By _**Alexis Demetriou**_
 
 #### _A typical online store allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information._
 
