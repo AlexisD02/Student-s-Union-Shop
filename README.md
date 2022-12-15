@@ -5,7 +5,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By **Alexis Demetriou**
 
-#### _{A typical online store allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information.}_
+#### _A typical online store allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information._
 
 ## Technologies Used
 
