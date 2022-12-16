@@ -28,4 +28,4 @@ This website allows the shopper to browse the firm's range of products and servi
 
 ## License
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) 2022 Alexis Demetriou
