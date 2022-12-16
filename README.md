@@ -4,7 +4,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By _**Alexis Demetriou**_
 
-#### Online store (E-Shop) - a website that sells hoodies, jumpers and t-shirts. This website allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information. Customers can shop online using a variety of computers and devices, including desktops, laptops, tablets, and smartphones.
+#### Online store (E-Shop) - a website that sells hoodies, jumpers and t-shirts.
 
 ## Technologies Used
 
@@ -14,10 +14,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Description
 
-* _Design and evaluate appropriate user interfaces for front-end web applications - Wireframing with annotations overlaid_
-* _Develop a front-end web application using modern development  environments - Web application implementation (detailed breakdown below)_
-* _Justify a choice of interaction methods and identify appropriate contexts of use for web applications - Questions in demo regarding responsive web design_
-* _Demonstrate an awareness of current industry standards including those related to security, accessibility, and the design and development of web applications - Questions in demo regarding HTML5 API (localStorage and sessionStorage), web front-end frameworks etc..._
+This website allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information. Customers can shop online using a variety of computers and devices, including desktops, laptops, tablets, and smartphones.
 
 ## Setup/Installation Requirements
 
