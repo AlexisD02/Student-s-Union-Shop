@@ -4,7 +4,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By _**Alexis Demetriou**_
 
-#### Online store (E-Shop) - a website that sells hoodies, jumpers and t-shirts.
+#### Online store (E-Shop) - a front-end web application that sells hoodies, jumpers and t-shirts.
 
 ## Technologies Used
 
