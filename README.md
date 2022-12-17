@@ -4,7 +4,7 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 #### By _**Alexis Demetriou**_ | G20970098 | ademetriou5@uclan.ac.uk
 
-#### Online store (E-Shop) - a front-end web application that sells hoodies, jumpers and t-shirts.
+#### Online-Shop Web App (E-Shop) - a front-end web application that sells hoodies, jumpers and t-shirts.
 
 ## Technologies Used
 
@@ -23,12 +23,14 @@ Provides video content in the form of an iFrame embedded on YouTube
 2. Products (products.html)
 
 Provides access to all products (t-shirts, hoodies, and jumpers).
-Using sessionStorage can present the functionality to click the product for more details.
+Using sessionStorage the page present the functionality to click the product for more details.
 Functionality to browse products using anchor tags to navigate to parts of a web page.
+Enables users to add items to the shopping cart.
  
 3. Cart (cart.html)
  
- 
+Using localStorage the page provides functionality to view the shopping cart with items added.
+
  
 4. Item (item.html)
 
