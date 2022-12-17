@@ -24,7 +24,7 @@ This website allows the shopper to browse the firm's range of products and servi
 
 ## Known Bugs
 
-* _Website design is not adaptive for very small mobile device screens._
+* _Website design is not adaptive for very small device screens (e.g. smartwatch)._
 
 ## License
 
