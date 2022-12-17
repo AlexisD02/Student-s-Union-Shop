@@ -8,8 +8,8 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Technologies Used
 
-* HTML (_HyperText Markup Language_)
-* CSS (_Cascading Style Sheets_)
+* HTML5 (_HyperText Markup Language 5_)
+* CSS3 (_Cascading Style Sheets 3_)
 * JavaScript
 
 ## Description
@@ -18,24 +18,19 @@ This website allows the shopper to browse the firm's range of products and servi
 
 1. Home (index.html)
  
-Provides video content in the form of an iFrame embedded on YouTube
+The first page or starting point for navigation that provides visitors a first impression. It provides a header, footer, UCLan logo, text, video content in the form of an iFrame embedded on YouTube and tags used to link from one page to another.
  
 2. Products (products.html)
 
-Provides access to all products (t-shirts, hoodies, and jumpers).
-Using sessionStorage the page present the functionality to click the product for more details.
-Functionality to browse products using anchor tags to navigate to parts of a web page.
-Enables users to add items to the shopping cart.
+Provides access to all products (t-shirts, hoodies, and jumpers). Shopper can view product image and color, read product description, and view product pricing information. Using sessionStorage the page present the functionality to click the product for more details. The page has functionality to browse products using anchor tags to navigate to parts of a web page. Using localStorage the page also enables users to add items to the shopping cart.
  
 3. Cart (cart.html)
  
-Using localStorage the page provides functionality to view the shopping cart with items added.
+Using localStorage the page provides functionality to view the shopping cart with items added. Shopper can view product image and color, read product description, and view product pricing information. The page also allows the user to remove products or erase the entire cart. 
 
- 
 4. Item (item.html)
 
-The items page can only be accessed by clicking on an item in the products view.
-
+The items page can only be accessed by clicking on an item in the products view. Users can view the image in a larger scale, read product description, and view product pricing information. Using localStorage the page also enables users to add items to the shopping cart.
 
 ## Setup/Installation Requirements
 
