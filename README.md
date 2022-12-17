@@ -8,8 +8,8 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 ## Technologies Used
 
-* HTML (HyperText Markup Language)
-* CSS (Cascading Style Sheets)
+* HTML (_HyperText Markup Language_)
+* CSS (_Cascading Style Sheets_)
 * JavaScript
 
 ## Description
