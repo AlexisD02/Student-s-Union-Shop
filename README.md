@@ -2,7 +2,7 @@
 
 This is the work for assignment 1 for CO1418 Web Technologies
 
-#### By _**Alexis Demetriou**_
+#### By _**Alexis Demetriou**_ | G20970098 | ademetriou5@uclan.ac.uk
 
 #### Online store (E-Shop) - a front-end web application that sells hoodies, jumpers and t-shirts.
 
