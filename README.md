@@ -16,6 +16,25 @@ This is the work for assignment 1 for CO1418 Web Technologies
 
 This website allows the shopper to browse the firm's range of products and services, view product photos or images, and view product pricing information. Customers can shop online using a variety of computers and devices, including desktops, laptops, tablets, and smartphones.
 
+1. Home (index.html)
+ 
+Provides video content in the form of an iFrame embedded on YouTube
+ 
+2. Products (products.html)
+
+Provides access to all products (t-shirts, hoodies, and jumpers).
+Using sessionStorage can present the functionality to click the product for more details.
+Functionality to browse products using anchor tags to navigate to parts of a web page.
+ 
+3. Cart (cart.html)
+ 
+ 
+ 
+4. Item (item.html)
+
+The items page can only be accessed by clicking on an item in the products view.
+
+
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
