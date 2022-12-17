@@ -42,5 +42,5 @@ The items page can only be accessed by clicking on an item in the products view.
 
 * _Website design is not adaptive for very small device screens (e.g. smartwatch)._
 
-
+___________________________________
 Copyright (c) 2022 Alexis Demetriou
