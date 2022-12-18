@@ -1,0 +1,473 @@
+/* style.css */
+/* Author: Alexis Demetriou (G20970098) */
+/* Email: ADemetriou5@uclan.ac.uk */
+
+/* Style everything */
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+/* Style the header of all pages*/
+.header {
+    background: #BE1622;
+    color: #FFFFFF;
+    font-size: 15px;
+    overflow: hidden;
+    padding: 2em 1em;
+}
+
+/* Style the link tags */
+.tags {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+}
+
+.tags.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tags:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+#header-right {
+    float: right;
+    position: absolute;
+    top: 2em;
+    right: 3em;
+    display: block;
+}
+
+/* Style the hamburger menu */
+.click_menu{
+    position: absolute;
+    top: 2em;
+    right: 2em;
+    display: none;
+}
+
+.line{
+    width: 30px;
+    height: 5px;
+    margin: 4px 0;
+    background-color: black;
+}
+
+/* Style the image (UCLan Logo)*/
+#image1{
+    float: left;
+    width: 220px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+/* Style the main content of home page (index.html) */
+.content {
+    font-size: 14px;
+    padding: 20px 0;
+    max-width: 70%;
+    margin: auto;
+}
+
+main h1{
+    color: #34516C;
+}
+
+main h2{
+    color: #F2BE1A;
+    margin: 30px 0;
+    font-size: 22px;
+}
+
+/* Style the embed YouTube video*/
+.container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Style the header of all pages*/
+.footer {
+    padding: 2em;
+    background-color: #34516C;
+    color: #FFFFFF;
+    width: 100%;
+    margin-top: auto;
+
+}
+
+.footer p {
+    font-size: 11px;
+}
+.column{
+    float: left;
+}
+
+.left {
+    width: 25%;
+}
+.middle, .right {
+    width: 30%;
+}
+.left, .right{
+    margin: 0 20px;
+}
+.footer a:link {
+    color: #007FB0;
+    background-color: transparent;
+}
+
+/* Style the main content of products page (products.html) */
+.content2 {
+    font-size: 14px;
+    padding: 20px;
+    margin: 0 16em;
+}
+
+/* Style the product anchor tags */
+.filters a{
+    margin: 1em;
+    color: #007FB0;
+}
+
+.link_color{
+    color: #007FB0;
+}
+
+/* Style the product cards */
+.card {
+    float: left;
+    width: 30%;
+    margin: 1em;
+    background-color: #C7CBDA;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 1px solid #C7CBDA;
+    height: 43em;
+}
+
+/* Style the product image */
+.card img {
+    width: 100%;
+    height: 50%;
+}
+
+/* Style the product price */
+.price{
+    font-weight: bold;
+}
+
+/* Style the product button */
+.button{
+    text-align: center;
+}
+
+/* Style the top anchor tag */
+#top_link{
+    position: fixed;
+    left: 2em;
+    top: 50%;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+    padding-top: 27px;
+    background: #34516C;
+    color: #C7CBDA;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Style the main content of item page (item.html) */
+.content3 {
+    font-size: 14px;
+    padding: 20px;
+}
+
+/* Style the product card of item page */
+.card_info {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C7CBDA;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 1px solid #C7CBDA;
+    height: auto;
+}
+
+/* Style the product image of item page */
+.card_info img {
+    width: 100%;
+    height: auto;
+}
+
+.products_info {
+    padding: 0 2em;
+}
+
+/* Style the main content of cart page (cart.html) */
+.content4 {
+    margin: 1em 20em 1em 15em;
+}
+
+.title{
+    margin-left: 2em;
+    column-count: 2;
+    column-gap: 17em;
+}
+
+/* Style the product image of cart page */
+.cart_image{
+    width: 50%;
+    height: auto;
+}
+
+/* Style the product description of cart page */
+.cart_items{
+    margin: 2em ;
+    display: flex;
+    justify-content: space-between;
+}
+.caption{
+    position: absolute;
+    left: 34%;
+}
+
+.flex-container {
+    margin: 1.5em 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    line-height: 5em;
+}
+
+/* Style the product image of cart page */
+.item_image {
+    width: 20%;
+    text-align: center;
+}
+
+/* Style the button in order to remove all products */
+#empty_cart_button {
+    float: right;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 2px solid #BE1622;
+}
+
+#empty_cart_button:hover {
+    background-color: #BE1622;
+    color: #FFFFFF;
+}
+
+/* Style the image when the cart is empty */
+.empty_cart_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+
+/* Style the text when the cart is empty */
+.warning_text{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+/* Style the button in order to remove all products */
+.remove_product_cart_button{
+    display: table;
+    background-color: #FFFFFF;
+    color: #0099D2;
+    border: 2px solid #0099D2;
+    padding: 10px 25px;
+    margin-top: 1.5em;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.remove_product_cart_button:hover {
+    background-color: #0099D2;
+    color: #FFFFFF;
+}
+
+/* Style the button to return to product page (products.html) */
+#center_button {
+    padding: 15px 32px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p_text {
+    margin-right: 2em;
+}
+
+/* Style the page on screens that are 1400px or less */
+@media screen and (max-width: 1400px) {
+    .content2 {
+        margin: 0 4em;
+    }
+    .card{
+        width: 30%;
+        height: 46em;
+    }
+}
+
+/* Style the page on screens that are 1100px or less */
+@media screen and (max-width: 1100px) {
+    .content2 {
+        margin: 0 4em;
+    }
+    .card{
+        width: 40%;
+        height: 42em;
+    }
+    .content4 {
+        margin: 1em 10em 1em 5em;
+    }
+    .flex-container {
+        margin: 20px 0;
+    }
+    .cart_items{
+        margin: 0;
+    }
+    .content{
+        max-width: 90%;
+        font-size: large;
+    }
+}
+
+/* Style the page on screens that are 900px or less */
+@media screen and (max-width: 900px) {
+    .content2{
+        margin: 0 2em;
+    }
+    .card{
+        width: 45%;
+        height: 42em;
+    }
+}
+
+/* Style the page on screens that are 700px or less */
+@media screen and (max-width: 700px) {
+    #image1 {
+        margin-right: 100%;
+        margin-bottom: 2em;
+    }
+
+    .tags{
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    .click_menu{
+        display: block;
+    }
+
+    #header-right {
+        float: none;
+        position: unset;
+    }
+
+    .content2{
+        margin: 0 10em;
+    }
+
+    .card{
+        width: 100%;
+        height: 40em;
+    }
+
+    #top_link {
+        left: -1em;
+        top: 50%;
+    }
+
+    .column {
+        clear: both;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .left .middle, .right {
+        width: 100%;
+    }
+
+    .footer{
+        font-size: larger;
+    }
+}
+
+/* Style the page on screens that are 600px or less */
+@media screen and (max-width: 600px) {
+    .card{
+        width: 100%;
+        height: 40em;
+    }
+    .content2{
+        margin: 0 1em;
+    }
+    .content4 {
+        margin: 1em;
+    }
+
+    .item {
+        line-height: normal;
+    }
+    .flex-container {
+        justify-content: space-between;
+    }
+
+}
